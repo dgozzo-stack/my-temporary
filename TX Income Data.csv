@@ -1,7 +1,3 @@
-﻿Income (Median household income) for Texas by County
-"All Races (includes Hispanic/Latino), Both Sexes, All Ages, 2019-2023"
-Sorted by Value
-
 County,FIPS,Value (Dollars),Rank within US (of 3141 counties)
 "Texas",48000,"76,292","22 of 52"
 "United States",00000,"78,538","N/A"
@@ -259,12 +255,3 @@ County,FIPS,Value (Dollars),Rank within US (of 3141 counties)
 "Collin County",48085,"117,588","53"
 "Rockwall County",48397,"124,917","34"
 "Kenedy County",48261,NA,"N/A"
-
-Suggested Citation:
-HDPulse: An Ecosystem of Minority Health and Health Disparities Resources. National Institute on Minority Health and Health Disparities. Created 10/13/2025. Available from https://hdpulse.nimhd.nih.gov
-
-Notes:
-"NA: Data not available [http://hdpulse.nimhd.nih.gov/data/datanotavailable.html] for this combination of geography, cancer site, age, and race/ethnicity."
-Source: Demographic data provided by the Census Bureau (http://www.census.gov/) & the American Community Survey (http://www.census.gov/acs/www/).
-"For more information about Income (Median household income), see the dictionary at http://hdpulse.nimhd.nih.gov/dictionary.php#income."
-"Median Incomes over 250,000 have been coded to 250,001 by the Census Bureau. [ http://www2.census.gov/acs2012_5yr/summaryfile/ACS_2008-2012_SF_Tech_Doc.pdf ]"
