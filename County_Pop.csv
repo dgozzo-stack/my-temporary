@@ -1,8 +1,3 @@
-table with row headers in column A and column headers in rows 3 through 4 (leading dots indicate sub-parts),,,,,,
-"Annual Estimates of the Resident Population for Counties in the United States: April 1, 2020 to July 1, 2024",,,,,,
-Geographic Area,"April 1, 2020 Estimates Base",Population Estimate (as of July 1),,,,
-,,2020,2021,2022,2023,2024
-United States,"331,515,736","331,577,720","332,099,760","334,017,321","336,806,231","340,110,988"
 ".Autauga County, Alabama","58,800","58,909","59,191","59,736","60,436","61,464"
 ".Baldwin County, Alabama","231,767","233,244","239,411","246,577","254,107","261,608"
 ".Barbour County, Alabama","25,226","24,975","24,517","24,722","24,644","24,358"
@@ -3147,9 +3142,3 @@ United States,"331,515,736","331,577,720","332,099,760","334,017,321","336,806,2
 ".Uinta County, Wyoming","20,448","20,461","20,690","20,722","20,724","20,621"
 ".Washakie County, Wyoming","7,685","7,663","7,727","7,728","7,736","7,662"
 ".Weston County, Wyoming","6,838","6,817","6,747","6,872","6,828","6,866"
-"The Census Bureau has reviewed this data product to ensure appropriate access, use, and disclosure avoidance protection of the confidential source data used to produce this product (Data Management System (DMS) number: P-6000042 and P-7501659. Disclosure Review Board (DRB) approval number: CBDRB-FY25-0078). ",,,,,,
-"Note: The estimates are developed from a base that integrates the 2020 Census, Vintage 2020 estimates, and 2020 Demographic Analysis estimates.  For population estimates methodology statements, see https://www.census.gov/programs-surveys/popest/technical-documentation/methodology.html. All geographic boundaries for the 2024 population estimates series are as of January 1, 2024.",,,,,,
-Suggested Citation:,,,,,,
-"Annual Estimates of the Resident Population for Counties in the United States: April 1, 2020 to July 1, 2024 (CO-EST2024-POP)",,,,,,
-"Source: U.S. Census Bureau, Population Division",,,,,,
-Release Date: March 2025,,,,,,
